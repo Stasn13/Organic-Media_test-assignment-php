@@ -1,0 +1,44 @@
+GET http://localhost:8888
+
+<> 2020-08-11T025911.500.html
+
+###
+
+GET http://localhost:8888/user
+
+<> 2020-08-11T025848.404.html
+
+###
+
+GET http://localhost:8888/user
+
+<> 2020-08-11T025739.404.html
+
+###
+
+GET http://localhost:8888/user
+
+<> 2020-08-11T025437.404.html
+
+###
+
+GET http://localhost:8888/user
+
+<> 2020-08-11T025112.404.html
+
+###
+
+POST http://localhost:8888/user
+
+<> 2020-08-11T024928.404.html
+
+###
+
+POST http://localhost:8888/user
+
+name=use
+
+<> 2020-08-11T024840.404.html
+
+###
+
